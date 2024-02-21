@@ -105,7 +105,9 @@ analytics:
 author:
   name: "Donggeun Yu"
   avatar: "/images/profile.png"
-  bio: "매일 성장하는 예비 백엔드 개발자"
+  bio: |
+    매일 성장하는
+    예비 백엔드 개발자
   location: "South Korea"
   email:
   links:
