@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "Donggeun Yu"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "매일 성장하는 개발 블로그"
   location: "Somewhere"
   email:
   links:
