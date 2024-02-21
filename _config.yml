@@ -106,8 +106,8 @@ author:
   name: "Donggeun Yu"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "매일 성장하는 개발 블로그"
-  location: "Somewhere"
-  email:
+  location: "South Korea"
+  email: "udevel@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
