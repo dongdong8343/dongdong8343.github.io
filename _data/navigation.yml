@@ -9,7 +9,7 @@ docs:
   - title: "Menu"
     children:
       - title: "Algorithm"
-        url: /Algorithm/
+        url: /categories/#algorithm
       - title: "Tag"
         url: /tags/
   # - title: "About"
