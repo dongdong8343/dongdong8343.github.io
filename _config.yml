@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "ko-KR"
 title: "동동이의 개발일지"
 title_separator: "|"
-subtitle: "열정으로 움직이는 삶보다는 습관으로 움직이는 삶을"
+subtitle: "열정보단 습관으로 움직이는 삶을"
 name: "Donggeun Yu"
 description: "백엔드 개발자로 가기 위한 여정"
 url: "https://dongdong8343.github.io"
