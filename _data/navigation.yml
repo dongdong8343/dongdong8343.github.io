@@ -10,11 +10,11 @@ main:
     url: /search/
 
 docs:
-  - title: "Category"
+  - title: "study"
     children:
       - title: "Algorithm"
         url: /categories/#algorithm
-  - title: "Tag"
+  - title: "thoughts"
     children:
       - title: "생각 정리"
         url: /categories/#thoughts
