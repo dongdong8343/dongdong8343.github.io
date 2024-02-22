@@ -28,7 +28,7 @@ docs:
   #   url: /sitemap/
 
 counts:
-  - title: "Menu"
+  - title: "study"
     use: true
-  - title: "Thoughts"
+  - title: "thoughts"
     use: true
