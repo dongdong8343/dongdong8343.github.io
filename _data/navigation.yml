@@ -14,7 +14,7 @@ docs:
     children:
       - title: "Algorithm"
         url: /categories/#algorithm
-  - title: "Tags"
+  - title: "Tag"
     children:
       - title: "생각 정리"
         url: /categories/#thoughts
