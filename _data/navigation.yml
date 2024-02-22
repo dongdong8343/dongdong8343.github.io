@@ -30,3 +30,5 @@ docs:
 counts:
   - title: "Menu"
     use: true
+  - title: "Thoughts"
+    use: true
