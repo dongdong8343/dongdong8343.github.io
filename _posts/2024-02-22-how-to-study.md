@@ -5,7 +5,7 @@ excerpt: "앞으로의 계획 정리"
 categories:
   - Thooughts
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [생각 정리]
 sidebar:
   nav: "counts"
 ---
