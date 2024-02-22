@@ -3,7 +3,7 @@ title: "앞으로의 공부 계획"
 excerpt: "앞으로의 계획 정리"
 
 categories:
-  - Algorithm
+  - Thooughts
 tags:
   - [Blog, jekyll, Github, Git]
 sidebar:
