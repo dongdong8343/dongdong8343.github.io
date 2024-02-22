@@ -15,9 +15,9 @@ docs:
       - title: "Algorithm"
         url: /categories/#algorithm
   - title: "Thoughts"
-      children:
-        - title: "생각 정리"
-          url: /categories/#thoughts
+    children:
+      - title: "생각 정리"
+        url: /categories/#thoughts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
