@@ -1,5 +1,5 @@
 ---
-title: "어노테이션(Annotation) 총정리"
+title: "[Java] 어노테이션(Annotation) 총정리"
 excerpt: "어노테이션 개념, 사용법, 종류 정리"
 
 categories:
