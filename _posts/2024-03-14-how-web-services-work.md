@@ -5,7 +5,7 @@ excerpt: "웹 서비스 동작 원리"
 categories:
   - Spring
 tags:
-  - [localhost, 8080]
+  - [localhost, port]
 sidebar:
   nav: "counts"
 ---
@@ -77,7 +77,9 @@ http://localhost:8080/hello.html 이 주소로 접속했을 때 어떻게 화면
   포트 번호를 의미합니다.
   저 포트 번호에서 스프링 부트가 동작하고 있고 저 방으로 클라이언트가 요청을 보내는 것입니다.
   포트에 대한 자세한 정리는 아래 링크를 참고하면 됩니다.
-  https://dongdong8343.github.io/etc/internet-network/
+
+  [포트 설명](https://dongdong8343.github.io/etc/internet-network/)
+
 - hello.html
   이건 그냥 파일 이름입니다. 아까 위에서 만들었던 html 파일입니다.
 
