@@ -28,18 +28,20 @@ sidebar:
 
 ### hi 페이지의 실행 흐름
 
-<파일 구조>
+**파일 구조**
 
 <div align="center">
    <img src="https://github.com/dongdong8343/dongdong8343.github.io/assets/93115530/590ada20-17a6-43d4-8b3a-37b296223e90" width="50%" height="auto" />
    </div>
 
 1. **클라이언트가 url에 요청 입력**
+
    <div align="center">
    <img src="https://github.com/dongdong8343/dongdong8343.github.io/assets/93115530/1ed4a137-c829-442d-a9df-91ace71815e3" width="50%" height="auto" />
    </div>
 
 2. **컨트롤러가 url의 요청에 따라 메서드를 수행**
+
 3. **모델 객체를 매개 변수로 가져오고 변수를 생성해서 뷰 템플릿에 데이터 전달**
 
    → 변수에 따라 다른 뷰 템플릿 페이지 출력
