@@ -1,5 +1,5 @@
 ---
-title: "웹 서비스 동작 원리"
+title: "게시판 만들기 1 - 웹 서비스 동작 원리"
 excerpt: "웹 서비스 동작 원리"
 
 categories:
